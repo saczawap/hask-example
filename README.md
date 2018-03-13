@@ -1,0 +1,2 @@
+# hask-example
+Haskell playground
